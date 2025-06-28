@@ -1,7 +1,7 @@
 {
   "name": "placar-api-vercel",
   "version": "1.0.0",
-  "main": "placar.js",
+  "main": "api/placar.js",
   "dependencies": {
     "node-fetch": "^2.6.7"
   }
